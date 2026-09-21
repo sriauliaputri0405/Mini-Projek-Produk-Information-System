@@ -1,11 +1,11 @@
 # Mini-Projek-Produk-Information-System
 # Sistem Informasi Produk
 
-## 📌 Deskripsi
+##  Deskripsi
 
 Sistem Informasi Produk merupakan program sederhana berbasis PHP yang digunakan untuk menyimpan, mengolah, dan menampilkan data produk. Sistem ini menggunakan konsep pemisahan menjadi tiga bagian, yaitu **Data Layer, Processing Layer, dan Presentation Layer**.
 
-## 📂 Struktur File
+##  Struktur File
 
 ```text
 project/
@@ -124,7 +124,7 @@ Jika stok kurang dari 3, baris produk akan menggunakan class `stok-kritis` sehin
 
 ---
 
-## 🔄 Alur Sistem
+##  Alur Sistem
 
 Alur kerja program secara sederhana:
 
@@ -146,7 +146,7 @@ index.php
 Tampilan Sistem Informasi Produk
 ```
 
-## 🎯 Hasil Akhir
+##  Hasil Akhir
 
 Saat `index.php` dijalankan, sistem akan menampilkan:
 
@@ -163,7 +163,7 @@ Produk yang memiliki stok kritis:
 | Minyak Goreng 2L |    2 |
 | Gula Pasir 1kg   |    1 |
 
-## 💡 Kesimpulan
+##  Kesimpulan
 
 Program ini menerapkan pemisahan fungsi berdasarkan tugasnya:
 
